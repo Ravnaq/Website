@@ -100,13 +100,13 @@ section {
 
 .about .content .col-right {
   position: relative;
-  width: 45%;
+  width: 50%;
 }
 
 .about .content .img-card {
   position: relative;
   width: 100%;
-  min-height: 450px;
+  min-height: 200px;
 }
 
 .about .content .img-card img {

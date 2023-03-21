@@ -79,7 +79,7 @@ section {
 }
 
 .main .content h2 span {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 600;
 }
 
@@ -212,7 +212,7 @@ section {
   min-height: 450px;
 }
 
-.about .content .img-card img {
+.about .content .img-card iframe {
   position: absolute;
   top: 0;
   left: 0;
